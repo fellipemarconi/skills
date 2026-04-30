@@ -4,7 +4,7 @@ A collection of reusable AI skills designed to automate workflows, improve produ
 
 ## Overview
 
-This repository contains structured AI skills that can be used with tools like `npx skills`, OpenCode, or any compatible prompt-based system.
+This repository contains structured AI skills that can be used with tools like OpenCode, or any compatible prompt-based system.
 
 Each skill is designed to be:
 - Reusable
